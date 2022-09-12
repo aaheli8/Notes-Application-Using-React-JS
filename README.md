@@ -1,1 +1,2 @@
-# Notes-Application-Using-React-JS
+# Simple Notes
+## A Note taking Application built Using `React-JS`
